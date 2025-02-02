@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Salut, je suis Sahar Hammami  
 
-<!--
-**hammamisahar123/hammamisahar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Développeuse Full-Stack | Flutter & Node.js | Passionnée par la santé numérique**  
 
-Here are some ideas to get you started:
+🚀 **Projets en cours :**  
+- 📌 **MonDocteur** - Gestion avancée des dossiers médicaux  
+- 🏥 **Analyse des ECG et radiographies avec IA**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Mes technologies préférées :**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+
+💬 **Me contacter :**  
+📧 [Email](mailto:ton-email@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/ton-profil) | 🌐 [Portfolio](https://ton-portfolio.com)  
+
+---
+🔥 _"Le code est un art, chaque ligne est une expression de créativité."_  
