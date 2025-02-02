@@ -4,6 +4,8 @@
 
 ---
 
+<div style="background-color: #FFC0CB; padding: 20px; border-radius: 10px;">
+
 ## 🌟 À propos de moi
 
 👩‍💻 Développeuse passionnée, spécialisée en **Flutter** et **Node.js**.
@@ -51,6 +53,8 @@
 *J'adore coder tout en écoutant de la musique Lo-Fi 🎵💻 !*
 
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</div>
 
 ---
 
